@@ -1,0 +1,7 @@
+Ideas that work on GitHub Pages:
+
+1. Audio and video file converter. A visitor drops in a file and picks Audio or Video with the slider. They choose MP3, WAV, OGG or MP4, then download the result. This runs on ffmpeg.wasm, a version of FFmpeg that works in web pages. It's the strongest fit for Contract 10, as described below.
+2. YouTube study notes. Paste a YouTube link, watch it on the page through YouTube's official embedded player, and take notes stamped with the video time. Clicking a note jumps to that moment. Notes save in the browser, and visitors can export them as a text or Markdown file. It's useful for class, and it stays within YouTube's rules.
+3. Screen, webcam and microphone recorder. Visitors record their screen, camera or voice and download the recording. The browser supports this natively, so there's nothing heavy to load. It's handy for making demo videos for class.
+4. Image resizer and compressor. Visitors shrink, crop or convert photos before uploading them somewhere. This fits Contract 10 well, because image size is a common Lighthouse finding.
+5. Study planner. This combines a Pomodoro timer, a task list and flashcards, with progress saved in the browser. It's simple and easy to split between two people, but it's less novel than the others.
