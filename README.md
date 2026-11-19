@@ -6,6 +6,7 @@ A team website built for **WDD 231, Week 8: Work and Communicate Like a Teammate
 
 - **Neil Pack**
 - **Jacob Hirschi**
+- **Dias Doktyrbek**
 
 ## About This Project
 
